@@ -1,5 +1,5 @@
 # Player1.py
-#
+# New Changes to Player 1
 # author: Stephen Adams
 # date  : 2024-10-19
 # edited by GPM, 2024-11-06
